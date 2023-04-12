@@ -1,1 +1,1 @@
-# Touch_Web3_Midterm
+# Joe-Web-3-Template
